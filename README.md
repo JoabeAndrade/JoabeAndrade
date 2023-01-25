@@ -30,11 +30,11 @@
 
 ## ⚙️ &nbsp;GitHub Analytics
 
-<p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=JoabeAndrade&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maykbrito&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
-</p>
-
+ <div>
+<a href="https://github.com/JoabeAndrade">
+<img height="130em" src="https://github-readme-stats.vercel.app/api?username=JoabeAndrade&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoabeAndrade&layout=compact&langs_count=7&theme=dracula"/>
+  </div>
 <br><br>
 
 ## Contact
@@ -49,11 +49,8 @@
 <a href="https://linkedin.com/in/maykbrito" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
-<a href="https://instagram.com/maykbrito" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
-<a href="https://youtube.com/maykbrito" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=youtube" alt="youtube"/>
+<a href="https://instagram.com/j0abeandrade" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-JoabeAndrade-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 </p>
 
