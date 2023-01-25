@@ -40,11 +40,8 @@
 ## Contact
 
 <p align="left" style="background:yellow">
-<a href="https://codepen.io/maykbrito" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=codepen" alt="codepen"/>
-</a>
-<a href="https://twitter.com/maykbrito" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=twitter" alt="twitter"/>  
+<a href="https://twitter.com/JoabeAndrade_" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-JoabeAndrade-05122A?style=flat&logo=twitter" alt="twitter"/>  
 </a>
 <a href="https://linkedin.com/in/joabeandrade" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-JoabeAndrade-05122A?style=flat&logo=linkedin" alt="linkedin"/>
