@@ -48,6 +48,3 @@
  <img align="center" src="https://img.shields.io/badge/-JoabeAndrade-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 </p>
-
-
-<img width="490em" src="https://github-readme-twitter-gazf.vercel.app/api?id=JoabeAndrade_&layout=wide&show_reply=off&show_retweet=off" />
