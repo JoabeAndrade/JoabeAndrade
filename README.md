@@ -2,9 +2,9 @@
 
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Joabe Andrade</h1>
 
-- 🔥 Web Developer and Student in the Computer Science Course at Santa Cruz State University 
+- 🔥 Backend Developer and Student in the Computer Science Course at Santa Cruz State University 
 
--  👨‍💻 Member of [TecnoJr](https://www.tecnojr.com.br/)
+-  👨‍💻 Project Advisor at [Tecno](https://www.tecnojr.com.br/)
 
 - ⚡ Skills in ReactJS, Wordpress, Python, Django, PostgreSQL
 
