@@ -6,7 +6,7 @@
 
 -  👨‍💻 Project Advisor at [Tecno](https://www.tecnojr.com.br/)
 
-- ⚡ Skills in ReactJS, Wordpress, Python, Django, PostgreSQL
+- ⚡ Skills in Java, Spring Framework, Spring Booot, Docker, MySQL
 
 
 <br><br>
