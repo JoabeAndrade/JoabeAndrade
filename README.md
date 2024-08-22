@@ -1,45 +1,56 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/JoabeAndrade/23b2aa79d809dc374cb780b65741f8c1/raw/2a5cc26a8d299c6e546c8bc3cf1cf9e54f5e5ff5/githubcard.svg"/>
+<h2 align="left">Sobre mim</h2>
 
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Joabe Andrade</h1>
+###
 
-- 🔥 Backend Developer and Student in the Computer Science Course at Santa Cruz State University 
+<p align="left">Olá, meun nome é Joabe Andrade, atualmente estou cursando ciência da computação na Universidade Estadual de Santa Cruz, sou desenvolvedor mobile e backend possuindo experiência em JavaScript, TypeScript, React, React Native e Node, também sou diretor de projetos na TecnoJr.</p>
 
--  👨‍💻 Project Advisor at [Tecno](https://www.tecnojr.com.br/)
+###
 
-- ⚡ Skills in Java, Spring Framework, Spring Booot, Docker, MySQL
+<h2 align="left">Tecnologias</h2>
 
+###
 
-<br><br>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+</div>
 
-## 🛠 &nbsp;Tech Stack
-![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+###
 
+<h2 align="left">Estatísticas</h2>
 
-<br><br>
+###
 
-## ⚙️ &nbsp;GitHub Analytics
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JoabeAndrade&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=moltack&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JoabeAndrade&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=moltack&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JoabeAndrade&radius=16&theme=gruvbox&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
 
- <div>
-<a href="https://github.com/JoabeAndrade">
-<img height="130em" src="https://github-readme-stats.vercel.app/api?username=JoabeAndrade&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoabeAndrade&layout=compact&langs_count=7&theme=dracula"/>
-  </div>
-<br><br>
+###
 
-## Contact
+<p align="left">Midia Sociais</p>
 
-<p align="left" style="background:yellow">
-<a href="https://twitter.com/JoabeAndrade_" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-JoabeAndrade-05122A?style=flat&logo=twitter" alt="twitter"/>  
-</a>
-<a href="https://linkedin.com/in/joabeandrade" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-JoabeAndrade-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
-<a href="https://instagram.com/j0abeandrade" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-JoabeAndrade-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
-</p>
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/joabeandrade/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/JoabeAndrade/JoabeAndrade/output/snake.svg" alt="Snake animation" />
+
+###
