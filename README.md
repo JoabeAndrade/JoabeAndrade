@@ -50,3 +50,9 @@
 </div>
 
 ###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/JoabeAndrade/JoabeAndrade/output/snake.svg" alt="Snake animation" />
+
+###
